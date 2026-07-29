@@ -1,6 +1,8 @@
 # Parking-sensor
 Parking sensor module basing on arduino UNO r3
 
+video demo:
+https://youtube.com/shorts/xsXa5-aEMA?si=ttSxLEzACLrVHx8W
 
 ## componants
 Arduino UNO r3
